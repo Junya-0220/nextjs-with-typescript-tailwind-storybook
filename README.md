@@ -1,4 +1,4 @@
-## Next.js開発サーバ
+## Next.js 開発サーバ
 
 First, run the development server:
 
@@ -7,30 +7,29 @@ npm run dev
 # or
 yarn dev
 ```
-## Storybook開発サーバ
+
+## Storybook 開発サーバ
 
 ```bash
 yarn storybook
 ```
 
-http://localhost:6006/ にアクセスし、storybookが立ち上がることを確認する
+http://localhost:6006/ にアクセスし、storybook が立ち上がることを確認する
 
-lintを実行
+lint を実行
 
 ```bash
 yarn lint
 ```
 
-fixを実行
+fix を実行
 
 ```bash
 yarn lint:fix
 ```
 
-prettierを実行
+prettier を実行
 
 ```bash
 yarn format
 ```
-
-
