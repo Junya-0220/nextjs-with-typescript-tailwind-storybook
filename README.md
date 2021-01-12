@@ -1,6 +1,6 @@
 ## Next.js 開発サーバ
 
-First, run the development server:
+この環境を構築した記事https://zenn.dev/kolife01/articles/nextjs-typescript-storybook-tailwind
 
 ```bash
 npm run dev
