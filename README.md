@@ -10,6 +10,8 @@ yarn dev
 
 ## Storybook 開発サーバ
 
+https://www.learnstorybook.com/intro-to-storybook/react/en/get-started/(参考記事)
+
 ```bash
 yarn storybook
 ```
